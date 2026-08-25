@@ -1,0 +1,14 @@
+# Prometheus runtime data
+prometheus/data/
+
+# Prometheus binaries
+prometheus/**/*.exe
+
+# Grafana local/runtime files
+grafana/data/
+grafana/logs/
+
+# OS/editor files
+.vscode/
+.DS_Store
+Thumbs.db
